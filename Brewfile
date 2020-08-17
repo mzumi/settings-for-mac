@@ -1,4 +1,5 @@
 tap 'homebrew/cask'
+tap 'homebrew/cask-fonts'
 
 brew 'openssl'
 brew 'awscli'
@@ -14,6 +15,7 @@ brew 'hugo'
 brew 'jq'
 brew 'lsd'
 brew 'mas'
+brew 'pyenv'
 brew 'rbenv'
 brew 'ripgrep'
 brew 'ruby-build'
@@ -30,6 +32,7 @@ cask 'clipy'
 cask 'docker'
 cask 'dropbox'
 cask 'firefox'
+cask 'font-hack-nerd-font'
 cask 'hyperswitch'
 cask 'istat-menus'
 cask 'iterm2'
@@ -43,6 +46,7 @@ cask 'visual-studio-code'
 
 mas '1Password', id: 443987910
 mas 'CotEditor', id: 1024640650
+mas 'Day One', id: 1055511498
 mas 'Keynote', id: 409183694
 mas 'Magnet', id: 441258766
 mas 'PopClip', id: 445189367

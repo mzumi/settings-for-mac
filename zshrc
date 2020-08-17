@@ -36,10 +36,6 @@ alias kgdep='kubectl get deployment'
 alias ksys='kubectl --namespace=kube-system'
 alias kd='kubectl describe'
 
-# z
-
-. /usr/local/etc/profile.d/z.sh
-
 # emacs key bind
 bindkey -e
 
