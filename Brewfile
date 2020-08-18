@@ -29,6 +29,7 @@ cask 'appcleaner'
 cask 'arq'
 cask 'bitbar'
 cask 'clipy'
+cask 'dash'
 cask 'docker'
 cask 'dropbox'
 cask 'firefox'
@@ -44,7 +45,7 @@ cask 'tower'
 cask 'transmit'
 cask 'visual-studio-code'
 
-mas '1Password', id: 443987910
+mas '1Password 7', id: 1333542190
 mas 'CotEditor', id: 1024640650
 mas 'Day One', id: 1055511498
 mas 'Keynote', id: 409183694
